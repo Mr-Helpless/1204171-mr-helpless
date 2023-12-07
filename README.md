@@ -1,4 +1,4 @@
-
+```js
 var a=console.log("测试")
 var replce=function(){
         document.querySelector("body > div.app.has-head.has-banner.ng-scope > div.app-head > ul:nth-child(2)").style="height: 3rem;"
@@ -214,3 +214,4 @@ var replce=function(){
 
 //_________
 
+```
