@@ -112,7 +112,7 @@ var replce=function(){
             var day_num=day
             var date_day=new Date(new Date().getTime()+day_num*24*60*60*1000).Format("yyyy-MM-dd")
             var Frist_time=date_day+' 09:40:00'
-            var End_time=date_day+' 22:40:00'
+            var End_time=date_day+' 21:40:00'
             var result_json=""
             getReservation_ID()
             if(day==0){
