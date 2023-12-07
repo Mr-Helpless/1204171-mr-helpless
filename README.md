@@ -1,6 +1,8 @@
+`
+
 //测试版本测试版本测试版本测试版本测试版本测试版本测试版本测试版本测试版本
 //测试版本测试版本测试版本测试版本测试版本测试版本测试版本
-`
+
 var a=console.log("测试")
 var replce=function(){
         document.querySelector("body > div.app.has-head.has-banner.ng-scope > div.app-head > ul:nth-child(2)").style="height: 3rem;"
@@ -215,3 +217,5 @@ var replce=function(){
     //通知
 
 //_________
+
+`
